@@ -6,7 +6,7 @@ Image Processing & Computer Vision:
   2.  Pillow Minimum Version - 9.50
   3.  NumPy Minimum Version: 1.24.0
 
-PyTorch (Standard Version - GPU Compatible):
+PyTorch (GPU Compatible Version):
   1.  torch: 2.0.0
   2.  torchvision: 0.15.0
   3.  torchaudio: 2.0.0
