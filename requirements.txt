@@ -1,0 +1,22 @@
+Dashboard & the Core Streamlit Functionality:
+  1.  Streamlit Minimum Version: 1.25
+
+Image Processing & Computer Vision:
+  1.  OpenCV: Minimum Version: 4.80
+  2.  Pillow Minimum Version - 9.50
+  3.  NumPy Minimum Version: 1.24.0
+
+PyTorch (Standard Version - GPU Compatible):
+  1.  torch: 2.0.0
+  2.  torchvision: 0.15.0
+  3.  torchaudio: 2.0.0
+
+YOLOv5 Required Dependencies for Loading with torch.hub:
+  1.  Request Minimum: 2.31
+  2.  PyYAML Minimum Version: 6.0
+  3.  TQDM Minimum Version: 4.65
+  4.  Pandas Minimum Version: 2.0
+  5.  Seaborn Minimum Version: 0.12
+  6.  atplotlib Minimum Version: 3.7
+
+Psutil: Often required by YOLOv5's utilities.
