@@ -47,7 +47,7 @@ In contrast to the typical approaches to object detection, which simply register
 ## OS & Hardware
 - Python 3.11
 - OS: Windows 11 x64
-- Develped with GPU: RTX4060 with CUDA 13.0 Update 2 
+- Developed with GPU: RTX4060 with CUDA 13.0 Update 2 
 
 ## 📂 Project Structure
 ```text
