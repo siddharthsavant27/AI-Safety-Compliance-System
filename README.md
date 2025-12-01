@@ -27,6 +27,28 @@ In contrast to the typical approaches to object detection, which simply register
 - Precision (helmet detection) = 94%
 - Recall (person detection) = 91%
 
+## Quickstart
+  # 1. Clone repo
+    git clone https://github.com/siddharthsavant27/AI-Safety-Compliance-System.git
+    cd AI-Safety-Compliance-System
+
+  # 2. (Optional) Create & activate venv
+    python -m venv .venv
+    source .venv/bin/activate  # Windows: .venv\Scripts\activate
+
+  # 3. Install dependencies
+    pip install -r requirements.txt
+
+  # 4. Download YOLOv5 weights
+
+  # 5. Run the Streamlit app
+    streamlit run app.py
+
+## OS & Hardware
+- Python 3.11
+- OS: Windows 11 x64
+- Develped with GPU: RTX4060 with CUDA 13.0 Update 2 
+
 ## 📂 Project Structure
 ```text
 ├── app.py                 # Main Streamlit Dashboard application
@@ -34,3 +56,4 @@ In contrast to the typical approaches to object detection, which simply register
 ├── demo.gif               # Demo for README
 ├── yolov5/                # YOLOv5 submodule
 └── README.md              # Project Documentation
+
