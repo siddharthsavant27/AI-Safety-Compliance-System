@@ -1,4 +1,5 @@
 ## SiteGuard: An AI-Driven Industrial Safety Compliance System
+[![Demo](demo.gif)]([https://github.com/YOUR_USERNAME/SiteGuard-Safety-System](https://github.com/siddharthsavant27/AI-Safety-Compliance-System/blob/main/demo.gif))
 
 SiteGuard is a computer vision system that provides a real-time solution for detecting compliance by workers with wearing Personal Protection Equipment (PPE) while on construction sites. SiteGuard's technology consists of a fine-tuned instance of the YOLOv5 object detection model in order to detect workers and ensure that they are wearing PPE (hard hats and safety vests) during all work activity.
 
