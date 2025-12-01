@@ -28,20 +28,20 @@ In contrast to the typical approaches to object detection, which simply register
 - Recall (person detection) = 91%
 
 ## Quickstart
-  # 1. Clone repo
+  ### 1. Clone repo
     git clone https://github.com/siddharthsavant27/AI-Safety-Compliance-System.git
     cd AI-Safety-Compliance-System
 
-  # 2. (Optional) Create & activate venv
+  ### 2. (Optional) Create & activate venv
     python -m venv .venv
     source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-  # 3. Install dependencies
+  ### 3. Install dependencies
     pip install -r requirements.txt
 
-  # 4. Download YOLOv5 weights
+  ### 4. Download YOLOv5 weights
 
-  # 5. Run the Streamlit app
+  ### 5. Run the Streamlit app
     streamlit run app.py
 
 ## OS & Hardware
@@ -56,4 +56,3 @@ In contrast to the typical approaches to object detection, which simply register
 ├── demo.gif               # Demo for README
 ├── yolov5/                # YOLOv5 submodule
 └── README.md              # Project Documentation
-
